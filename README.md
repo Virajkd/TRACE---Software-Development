@@ -6,5 +6,9 @@ Link- https://trace-cat.netlify.app/
 Disclaimer- This system is built for very specific types of user, hence one can login only if he/she is a recorded in the database.
 For trail, one may use these logins-
 
-  1.  d
-  2.  d 
+Admin Login
+  1. Username: sanaysanth@gmail.com, Password: Sanay@2003
+
+User Login
+  1. Username: viraj@gmail.com, Password: Viraj@2003
+  2. Username: minnalrathore@gmail.com, Password: Minnal@2003
